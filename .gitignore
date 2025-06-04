@@ -1,0 +1,6 @@
+# Ignorar archivos temporales de Python, logs, etc.
+__pycache__/
+*.pyc
+*.log
+final_cam/
+*.mp4
